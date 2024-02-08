@@ -1,0 +1,170 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Bebas+Neue&family=Kanit&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar-2 {
+    list-style: none;
+    font-weight: bold;
+    font-size: 8px;
+    display: flex;
+    margin-top: 2px;
+    gap: 30px;
+}
+.navbar-2 h2{
+    font-size: 10px;
+}
+.li ul{
+    display: flex;
+    list-style: none;
+    margin-left: 500px;
+    gap: 20px;
+    font-size: 10px;
+    position: relative;
+    bottom: 16px;
+}
+.navbar-3 ul {
+    list-style: none;
+    display: flex;
+}
+.navbar-1 h1{
+    font-size: 15px;
+    font-weight: bold;
+    color: #00614F;
+    margin-left: 50px;
+}
+.nvbr{
+    display: flex;
+    gap: 30px;
+    margin-top: 50px;
+}
+.icon{
+    display: flex;
+    justify-content: end;
+    font-size: 10px;
+    position: relative;
+    right: 40px;
+    bottom: 26px;
+}
+.heading h1{
+    font-size: 1100%;
+    margin-left: 50px;
+    font-weight: bold;
+    line-height: 0.8;
+    margin-top: 100px;
+    font-family: 'Bebas Neue', sans-serif;
+    color: #00614F;
+    
+}
+.heading{
+   position: relative;
+
+}
+.heading img{
+    position: absolute;
+    margin-left: 100px;
+    top: 10%;
+    height: 100%;
+    width: 150%; 
+}
+.cycle{
+    display: flex;
+}
+
+.text-part button{
+    border: none;
+    color: white;
+    margin-top: 20px;
+    border-radius: 100px;
+    width: 65%;
+    font-size: 10px;
+    height: 30px;
+    background-color: #00614F;
+}
+.text-part{
+    margin-left: 550px;
+    margin-top: 100px;
+}
+.over h1{
+    display: flex;
+    justify-content: end;
+    font-size: 11.5px;
+    margin-right: 50px;
+    font-weight: bold;
+   position: relative;
+   bottom: 40px;
+}
+.a h1{
+    color: #2C7B6C;
+    margin-top: 20px;
+    margin-left: 42px;
+    font-size: 10px;
+}.b h1{
+    color: #2C7B6C;
+    font-size: 10px;
+    margin-left: 8px;
+    margin-top: 20px;
+
+}.c h1{
+    color: #2C7B6C;
+    font-size: 10px;
+    margin-left: 25px;
+    margin-top: 20px;
+
+
+}.d h1{
+    color: #2C7B6C; 
+    margin-top: 20px;
+   font-size: 10px;
+
+}.e h1{
+    color: #2C7B6C; 
+   font-size: 10px;
+   margin-top: 20px;
+
+}
+/*       */
+.last-part{
+    display: flex;
+    justify-content: space-around;
+    border: 2px solid #B5B5B5;
+    width: 93%;
+    height: 80px;
+    border-radius: 8px;
+    margin-left: 50px;
+}
+.a p{
+
+    font-size: 13px;
+    margin-top: 8px;
+    margin-left: 20px;
+    font-weight: bold;
+}.b p{
+
+    font-size: 13px;
+    font-weight: bold;
+    margin-top: 8px;
+}.c p{
+
+    font-size: 13px;
+    font-weight: bold;
+    margin-top: 8px;
+}.d p{
+    
+   font-size: 13px;
+    font-weight: bold;
+    margin-left: 4px;
+    margin-top: 8px;
+
+}.e p{
+ 
+   font-size: 13px;
+    font-weight: bold;
+    margin-left: 10px;
+    margin-top: 8px;
+
+}
+
+
